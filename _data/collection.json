@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Critical Annotation: R. Murray Schafer - Soundscapes of Canada" ] },
+    "summary": { "en": [ "Excerpt from R. Murray Schafer's \"Soundscapes of Canada\" series (Ideas, CBC Radio 1, 1974)." ] },
+    "items": [
+    ]
+}
