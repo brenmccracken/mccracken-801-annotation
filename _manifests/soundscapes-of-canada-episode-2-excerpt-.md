@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 'Soundscapes of Canada - Episode 2 - Excerpt '
+title: Schafer - Excerpt
 manifest_name: soundscapes-of-canada-episode-2-excerpt-
 
 ---

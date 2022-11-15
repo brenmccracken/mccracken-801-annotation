@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-episode-2-excerpt-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
+    "label": { "en": [ "Schafer - Excerpt" ] },
     "items": [
       {
         "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/canvas",
