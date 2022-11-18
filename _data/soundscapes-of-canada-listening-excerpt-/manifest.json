@@ -23,6 +23,16 @@
         "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 644.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://brenmccracken.github.io/mccracken-801-annotation/annotations/soundscapes-of-canada-listening-excerpt--canvas-1-transcription.json",
+            "label": {
+              "none": ["TRANSCRIPTION"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/paintings",

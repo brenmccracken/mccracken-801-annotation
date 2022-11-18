@@ -1,0 +1,206 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://brenmccracken.github.io/mccracken-801-annotation/annotations/soundscapes-of-canada-listening-excerpt--canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "TRANSCRIPTION",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "For the next hour, I need your ears, for I want you to do some intensive listening. So if you’re just listening to this program casually, you’d better turn it off right now. If you want to join me in a listening experiment, I’ll need your undivided attention, because I’m going to ask you to participate actively, and if you’re not prepared to do this the whole exercise will probably seem rather foolish. So, you’ll have to make that decision right now. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In order for the experiment to succeed, you’ll have to make sure the house is quiet. I hope you can get the cooperation of those around you. You need to ask them to be quiet and not to disturb you for the next hour. Perhaps they’d like to come and join us. Otherwise, perhaps you should give us up and go and join them. It’s simply got to be relatively quiet where you are or nothing at all will work. And that also means no personal distractions, like eating, drinking, or smoking—well, smoke if you have to, but don’t let it distract you. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38,86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First, I want you to approach your radio and adjust the volume of my voice until it sounds at about the same level as it would if I were sitting in the same room with you. I’ll give you a chance to follow all the instructions, so take your time doing this. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "86,102"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Let me read something to you while you’re adjusting the volume so you can fix it properly. It’s a short statement about language by the linguist Otto Jespersen. “Although we now regard the communication of thought as the main object of speaking, it is perfectly possible that speech has developed from something which had no other purpose than that of exercising the muscles of the mouth and throat, and of amusing oneself and others by the production of pleasant or possibly only strange sounds. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "103,143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "“And they saw the words coming forth from his mouth, like birds of gold, silver, and precious stones, which flew over the brethren in secret, and went into the ears of those who listened well” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143,172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now that you’ve adjusted the volume of your radio, I’d like you to sit back at a comfortable distance from me—about the same distance from me if I were in the same room conversing with you. What would that be, six feet to eight feet? You decide. Now, close your eyes and listen while I read you something else. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "172,188"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, here’s a question for you. Does my voice sound as if I am in the same room with you? And if it doesn’t, why not? Probably, if you’re listening on a small radio, my voice will sound rather tinny, because it lacks the low frequencies, but I’m afraid we can’t do much about that unless you go out and buy a new radio. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "188,215"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I’ve been asking you to concentrate on my voice, and now I’m going to ask you to listen to some other sounds. To do this, I’d like you to close your eyes again. Often, I find that if we want to concentrate on listening, it’s a good idea to close off vision. So, try it. Sit comfortably but with your eyes closed. This time, I want you to listen to the sounds of the radio itself—that is to say, to the hum, the static, or perhaps a distant station submerged behind the one that we’re listening to. I’ll stop talking for a minute and let you concentrate on just those sounds. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "215,266"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "soundscapes-of-canada-listening-excerpt--canvas-1-transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Radio silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "266"
+        }
+      }
+    }
+  ]
+}
