@@ -8,9 +8,8 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<div class="container">
-  <p><b>Critical Audiotext Annotation: R. Murray Schafer’s <em>Soundscapes of Canada</em></b></p>
-  <p>Prepared by Brennan McCracken for ENGL 801 - Sonic Approaches in Literary Studies</p>
+<p><b>Critical Audiotext Annotation: R. Murray Schafer’s <em>Soundscapes of Canada</em></b></p>
+<p>Prepared by Brennan McCracken for ENGL 801 - Sonic Approaches in Literary Studies</p>
 <p>Near the beginning of a 1994 essay titled “Radical Radio,” the composer and acoustic ecologist R. Murray Schafer describes a thought experiment he used in the classroom as a professor of communications at Simon Fraser University: </p>
 <p><em>Consider yourself a visitor from another planet; your spaceship allows you to cruise close enough to pick up twenty-four hours of North American radio; report back to me everything you learn about North Americans.</em> (208)</p>
 <p></p>
