@@ -27,6 +27,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://brenmccracken.github.io/mccracken-801-annotation/annotations/soundscapes-of-canada-listening-excerpt--canvas-1-critical-annotation.json",
+            "label": {
+              "none": ["CRITICAL ANNOTATION"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://brenmccracken.github.io/mccracken-801-annotation/annotations/soundscapes-of-canada-listening-excerpt--canvas-1-transcription.json",
             "label": {
               "none": ["TRANSCRIPTION"]
