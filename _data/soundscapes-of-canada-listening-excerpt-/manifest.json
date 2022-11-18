@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Soundscapes of Canada - Listening - Excerpt " ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/schafer-soundscapes-of-canada-excerpt-1",
+        "type": "Text",
+        "label": { "en": [ "Soundscapes of Canada - Listening - Excerpt " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://collections.cmccanada.org/final/Portal/libraryhome.aspx?lang=en-CA",
+        "type": "Agent",
+        "label": { "en": [ "Canadian Music Centre " ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 304.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://brenmccracken.github.io/mccracken-801-annotation/annotations/soundscapes-of-canada-listening-excerpt--canvas-1-transcription.json",
+            "label": {
+              "none": ["TRANSCRIPTION"]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia904703.us.archive.org/29/items/schafer-soundscapes-of-canada-excerpt-1/Schafer%20-%20Soundscapes%20of%20Canada%20-%20Excerpt%201.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 304.0
+                },
+                "target": "https://brenmccracken.github.io/mccracken-801-annotation/soundscapes-of-canada-listening-excerpt-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
