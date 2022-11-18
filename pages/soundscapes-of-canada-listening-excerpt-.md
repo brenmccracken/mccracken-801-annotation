@@ -31,5 +31,3 @@ using HTML or markdown.  Do not modify this file above this line -->
   <p>Sterne, Jonathan. <em> The Audible Past</em>. Duke University Press, 2003. </p>
 <p>Toop, David. “many private concerts.”8 December 2015, https://davidtoopblog.com/2015/12/08/many-private-concerts/. Accessed 15 November 2022. </p>
 <p></p>
-<p></p>
-</div>
